@@ -1,0 +1,15 @@
+{
+  "receivedAt": "2026-11-07T10:23:05.864Z",
+  "accountId": "6aeefa7dac1eb54bbb62cafa",
+  "postId": "6aeefc04ad778cdfa49ceba3",
+  "status": "published",
+  "platforms": [
+    {
+      "platform": "instagram",
+      "status": "published",
+      "platformPostUrl": "https://www.instagram.com/p/Dfb9THRDQ0s/",
+      "error": null
+    }
+  ],
+  "verifiedAt": "2026-11-07T10:23:26.064Z"
+}

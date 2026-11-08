@@ -1,0 +1,16 @@
+{
+  "brand": "Luevora",
+  "platform": "instagram",
+  "plannedDate": "2026-11-07",
+  "slug": "contoh-workflow",
+  "status": "draft",
+  "source": "html",
+  "canvas": {
+    "width": 1080,
+    "height": 1350
+  },
+  "media": [
+    "01.png"
+  ],
+  "notes": "Contoh teknis alur produksi. Tetap draft; belum memakai knowledge atau panduan visual bisnis."
+}

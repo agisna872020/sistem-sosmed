@@ -1,0 +1,5 @@
+:root { --canvas-width:1080px; --canvas-height:1350px; }
+* { box-sizing:border-box; }
+html, body { margin:0; padding:0; }
+[data-artboard] { width:var(--canvas-width); height:var(--canvas-height); display:flex; align-items:center; justify-content:center; overflow:hidden; background:#ffffff; color:#171717; }
+h1 { margin:0; font-family:Arial,sans-serif; font-size:180px; font-weight:500; letter-spacing:-6px; line-height:1.1; }

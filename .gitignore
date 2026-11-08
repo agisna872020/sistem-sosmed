@@ -1,0 +1,12 @@
+node_modules/
+.env
+.env.*
+!.env.example
+bridge/.env
+bridge/.env.*
+!bridge/.env.example
+bridge/logs/*.json
+bridge/logs/*.log
+__pycache__/
+.DS_Store
+*.tmp

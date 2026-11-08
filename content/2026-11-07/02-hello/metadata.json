@@ -1,0 +1,17 @@
+{
+  "brand": "Luevora",
+  "platform": "instagram",
+  "plannedDate": "2026-11-07",
+  "slug": "hello",
+  "status": "ready",
+  "source": "html",
+  "canvas": {
+    "width": 1080,
+    "height": 1350
+  },
+  "media": [
+    "01.png"
+  ],
+  "notes": "Tes posting Hello diminta pemilik. Akun tujuan terverifikasi: @luevora.ai.",
+  "postType": "feed"
+}

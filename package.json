@@ -1,0 +1,20 @@
+{
+  "name": "luevora-social-media",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Workspace produksi konten Instagram Luevora dan bridge Zernio",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "content:new": "node scripts/new-content.mjs",
+    "content:render": "node scripts/render.mjs",
+    "bridge:accounts": "node bridge/scripts/instagram.mjs accounts",
+    "bridge:post": "node bridge/scripts/instagram.mjs post",
+    "test": "node --test"
+  },
+  "devDependencies": {
+    "playwright": "1.65.0"
+  }
+}
